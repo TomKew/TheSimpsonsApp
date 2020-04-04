@@ -6,6 +6,7 @@ target 'TheSimpsonsApp' do
   use_frameworks!
 
   # Pods for TheSimpsonsApp
-  pod 'SwiftyJSON' 
+   pod 'SwiftyJSON'
+
 
 end
