@@ -8,7 +8,6 @@
 
 import UIKit
 import SwiftyJSON
-
 class MasterViewController: UITableViewController {
 
     var detailViewController: DetailViewController? = nil
